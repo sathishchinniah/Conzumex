@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (4.9.1)
+  - appstore-card-transition (1.0.4)
+  - SDWebImage (5.8.0):
+    - SDWebImage/Core (= 5.8.0)
+  - SDWebImage/Core (5.8.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.9.1)
+  - appstore-card-transition
+  - SDWebImage
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - appstore-card-transition
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  appstore-card-transition: 660c136cb8a0f0004b2e99e99f1305bfa041f05c
+  SDWebImage: 84000f962cbfa70c07f19d2234cbfcf5d779b5dc
+
+PODFILE CHECKSUM: 31fe797120d06b42e4e949091595429b6da3d388
+
+COCOAPODS: 1.8.4
